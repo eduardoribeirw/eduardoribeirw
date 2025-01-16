@@ -1,28 +1,32 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Hi, I'm Eduardo!
+<h1>🙋‍♂️ Hello world!</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardoribeirw)](https://github.com/eduardoribeirw)
-## About me:
+Eduardo Ribeiro, 16, Canoas - RS! 👾
 
-I'm a Fullstack Developer :smile:
+> Front-End Developer with experience in their frameworks and familiar with agile methodologies.
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+`📚` Software Engeneering
+<br>
+`❤️` In love with **Web Development**
 
-### 🛠 &nbsp; **Languages and Tools**
+<img align="center" href="https://hyzecode.com" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoribeirw&layout=compact&theme=transparent" alt="My Github Stats">
 
-![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT&logoColor=1572B6)&nbsp;
-![VITE](https://img.shields.io/badge/-VITE-05122A?style=flat&logo=VITE&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## - 🧠 Technologies and knowledge
 
-## What I don't know, give me a few days 😁
+[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
+[![](https://skillicons.dev/icons?i=bun)](https://bun.sh/docs)
+[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs/)
+[![](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/guide/)
+[![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
+[![](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
+[![](https://skillicons.dev/icons?i=next)](https://nextjs.org/docs)
+[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
+[![](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs)
+[![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation)
+[![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
+[![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=eduardoribeirw&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/eduardoribeirw)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/eduardoribeirw)
