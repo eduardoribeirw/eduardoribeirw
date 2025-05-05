@@ -10,8 +10,6 @@ Eduardo Ribeiro, 17, Canoas - RS! 👾
 <br>
 `❤️` In love with **Web Development**
 
-<img align="center" href="https://hyzecode.com" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoribeirw&layout=compact&theme=transparent" alt="My Github Stats">
-
 ## - 🧠 Technologies and knowledge
 
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
