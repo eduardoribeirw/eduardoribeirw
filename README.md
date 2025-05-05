@@ -2,7 +2,7 @@
 
 <h1>🙋‍♂️ Hello world!</h1>
 
-Eduardo Ribeiro, 16, Canoas - RS! 👾
+Eduardo Ribeiro, 17, Canoas - RS! 👾
 
 > Front-End Developer with experience in their frameworks and familiar with agile methodologies.
 
