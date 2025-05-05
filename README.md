@@ -24,4 +24,4 @@ Eduardo Ribeiro, 17, Canoas - RS! 👾
 [![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation)
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
 [![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
-[![](https://skillicons.dev/icons?i=angular)](https://angular.dev/))
+[![](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
