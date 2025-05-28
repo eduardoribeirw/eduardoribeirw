@@ -10,7 +10,7 @@ Eduardo Ribeiro, 17, Canoas - RS! 👾
 <br>
 `❤️` In love with **Web Development**
 
-## - 🧠 Technologies and knowledge
+## 🧠 Technologies and knowledge
 
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
@@ -20,6 +20,7 @@ Eduardo Ribeiro, 17, Canoas - RS! 👾
 [![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
 [![](https://skillicons.dev/icons?i=next)](https://nextjs.org/docs)
 [![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br>
 [![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
 [![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation)
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
@@ -28,6 +29,7 @@ Eduardo Ribeiro, 17, Canoas - RS! 👾
 [![](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 [![](https://skillicons.dev/icons?i=jest)](https://jestjs.io/docs/getting-started)
 [![](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs)
+<br>
 [![](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![](https://skillicons.dev/icons?i=graphql)](https://graphql.org/learn/)
 [![](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/docs)
@@ -36,6 +38,7 @@ Eduardo Ribeiro, 17, Canoas - RS! 👾
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
 [![](https://skillicons.dev/icons?i=github)](https://docs.github.com/)
 [![](https://skillicons.dev/icons?i=figma)](https://help.figma.com/)
+<br>
 [![](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
 [![](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
 [![](https://skillicons.dev/icons?i=astro)](https://docs.astro.build/)
